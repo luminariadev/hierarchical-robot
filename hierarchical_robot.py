@@ -1,8 +1,8 @@
 # ============================================================
-#  HIERARCHICAL MODELING - OPENGL + MATRIX STACK
-#  Objek Kompleks: Robot Sederhana (Proporsi Fix)
-#
-#  Mata Kuliah : Grafika Komputer (IF216004)
+#  HIERARCHICAL 3D ROBOT MODELING - OPENGL MATRIX STACK
+#  Forward Kinematics & Articulated Skeletal Hierarchy
+#  Author: luminariadev
+#  License: MIT
 # ============================================================
 #
 #  Kontrol Keyboard (SAMA PERSIS DENGAN VERSI ASLI):
